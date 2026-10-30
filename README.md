@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi I'm Şevval!
 
-<!--
-**sevvalmtn/sevvalmtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th Year Computer Engineering Student at Yildiz Technical University.
 
-Here are some ideas to get you started:
+- I'm interested in Algorithms, Machine Learning, Deep Learning and Agentic AI.
+- Currently exploring Multi-agent systems and RAG pipelines.
+- Also deepening my algorithms skills.
+- How to reach me: [LinkedIn](https://linkedin.com/in/şevval-metin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Toolbox
+
+**Languages:** Python, Java, C/C++
+**ML / AI:** PyTorch, Scikit-learn, Hugging Face, LangGraph
+**Backend & Data:** FastAPI, PostgreSQL, Docker
